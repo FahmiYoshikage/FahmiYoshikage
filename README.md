@@ -71,10 +71,7 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/FahmiYoshikage/FahmiYoshikage/output/snake.svg" alt="Snake animation" />
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/FahmiYoshikage/FahmiYoshikage/blob/output/github-contribution-grid-snake.gif)
 
 
 ###
