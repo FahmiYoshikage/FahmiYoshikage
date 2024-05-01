@@ -71,6 +71,7 @@
 ###
 
 <br clear="both">
+<img src="https://raw.githubusercontent.com/FahmiYoshikage/FahmiYoshikage/output/snake.gif" alt="Snake animation" />
 ![snake gif](https://github.com/FahmiYoshikage/FahmiYoshikage/blob/output/github-contribution-grid-snake.gif)
 
 
