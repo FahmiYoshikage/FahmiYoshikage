@@ -55,24 +55,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Fahmii光空">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Fahmii%E5%85%89%E7%A9%BA&count=6&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xj5ssgv5x5jn9x6xfsybfqxxd)
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xj5ssgv5x5jn9x6xfsybfqxxd&count={count})
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xj5ssgv5x5jn9x6xfsybfqxxd&width={width})
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xj5ssgv5x5jn9x6xfsybfqxxd&unique={true|1|on|yes})
-
-###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/FahmiYoshikage/FahmiYoshikage/output/snake.gif" alt="Snake animation" />
-![snake gif](https://github.com/FahmiYoshikage/FahmiYoshikage/blob/output/github-contribution-grid-snake.gif)
-
-
-###
