@@ -1,4 +1,4 @@
-<h2 align="center">Hello guys 👋! My name is Fahmi and I'm a Student from Tulungagung</h2>
+<h2 align="center">Hello guys 👋! My name is Fahmi and I'm a Student</h2>
 
 ###
 
