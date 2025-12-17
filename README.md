@@ -11,7 +11,7 @@
 
 ## About Me
 
-<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ0b2pzcG55MnkwYXE2NzhodzFqcHJzNjE4NXNlenJyZDhqcDNsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JCIWBz8oRRLZmZhNn/giphy.gif" alt="coding gif" />
+<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding gif" />
 
 -   I'm a **Student** passionate about technology and programming
 -   Currently learning **Web Development** and **Programming**
