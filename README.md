@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3C7DD9&center=true&vCenter=true&random=false&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Fahmi;Student+%26+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3C7DD9&center=true&vCenter=true&random=false&width=600&lines=Halo+Halo+Tes+%F0%9F%91%8B+I'm+Fahmi;Student+%26+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,15 +9,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ0b2pzcG55MnkwYXE2NzhodzFqcHJzNjE4NXNlenJyZDhqcDNsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JCIWBz8oRRLZmZhNn/giphy.gif" alt="coding gif" />
 
--   🎓 I'm a **Student** passionate about technology and programming
--   💻 Currently learning **Web Development** and **Programming**
--   🌱 Exploring new technologies and building projects
--   📫 How to reach me: **fahmiilham029@gmail.com**
--   ⚡ Fun fact: I love coding and anime!
+-   I'm a **Student** passionate about technology and programming
+-   Currently learning **Web Development** and **Programming**
+-   Exploring new technologies and building projects
+-   How to reach me: **fahmiilham029@gmail.com**
+-   Fun fact: I love coding and anime
 
 <br clear="right"/>
 
@@ -29,7 +29,7 @@
   
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,c,html,css" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,html,css,rust" alt="languages" />
 </p>
 
 ### Tools & Technologies
